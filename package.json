@@ -1,5 +1,6 @@
 {
 	"name": "royal-arrows-weather",
+	"author": "Sleither Reyes <sleither.reyes@gmx.de>",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
